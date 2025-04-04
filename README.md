@@ -17,7 +17,7 @@ Este repositorio contiene implementaciones de distintos métodos numéricos util
 - Método del Punto Medio  
 - Método de Simpson  
 
-## 🛠Requisitos  
+## Requisitos  
 Para ejecutar estos códigos, necesitas instalar las siguientes librerías en Python:  
 
 ```python
